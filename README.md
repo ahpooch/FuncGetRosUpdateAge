@@ -3,6 +3,9 @@ Mikrotik RouterOS script for obtaining information about the age of the last rel
 - Supports plain text information output
 - Supports detailed information output in associative array format
 
+TODO:
+- add alternative source of updates age: `changelog`. Currently only `release` source implemented.
+
 ### Disclamer and expression of gratitude
 Main source of internal functions here is https://forum.mikrotik.com/viewtopic.php?t=200103  
 Main contributors to code that make this script possible are:  
